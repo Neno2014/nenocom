@@ -28,6 +28,7 @@ public class MiRenderer implements Renderer {
 	public void onSurfaceCreated(GL10 gl, EGLConfig config) {
 		GLES20.glClearColor((float) Math.random(), (float) Math.random(),
 				(float) Math.random(), 1f);
+		// cambio1
 	}
 
 }
