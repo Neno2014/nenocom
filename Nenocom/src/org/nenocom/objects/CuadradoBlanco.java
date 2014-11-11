@@ -1,5 +1,5 @@
 package org.nenocom.objects;
 
-public class CuadradoBlanco {
+public class CuadradoBlanco extends GlObject {
 
 }
